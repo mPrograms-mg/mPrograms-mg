@@ -53,14 +53,15 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mPrograms-mg&layout=compact" alt="mPrograms-mg" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=truetheme=default#gh-light-mode-only%22%20alt=%22mPrograms-mg" alt="mPrograms-mg"/>
+<p align="center"><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mPrograms-mg&layout=compact" alt="mPrograms-mg" />
 
 <br />
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=true&theme=default#gh-light-mode-only" alt="mPrograms-mg"/>
+
+<br />
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/>
 
 [website]: https://mprograms-mg.github.io/Digital-CV/
 [twitter]: https://twitter.com/mPrograms92
