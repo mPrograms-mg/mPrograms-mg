@@ -11,24 +11,9 @@ I am a Software Engineer, passionate about Development and Learning Enthusiastic
 I have good Programming skills, Management, Teamwork, and Good Communication skill. Currently, I am working as a Software Engineer and building a UI using Angular.
 
 - 🌐 My Website: [mPrograms][website]
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning Rxjs, NgRx.
+- 🔭 I’m currently working on [Angular][angular]
+- 🌱 I’m currently learning Node js,
 - 📫 How to reach me: [mPrograms][twitter]
-
-## 🤝 Connect with me:
-
-[<img align="left" alt="mPrograms-mg | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-
-[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
-[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />][github]
-
-[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-
-<br/>
-<br/>
 
 ## 👨‍💻 Languages and Tools
 
@@ -47,7 +32,21 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-<br />
+
+## 🤝 Connect with me:
+
+[<img align="left" alt="mPrograms-mg | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
+[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />][github]
+
+[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+
+<br/>
+<br/>
 
 <!-- ## &#x1f4c8; GitHub Stats
 
@@ -67,5 +66,6 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 [instagram]: https://www.instagram.com/9_2mahesh/
 [medium]: https://medium.com/me/stories/public
 [github]: https://github.com/mPrograms-mg
+[angular]: https://angular.io/docs
 
 <!-- https://komarev.com/ghpvc/?username=mprogram-mg&label=Profile%20views&color=0e75b6&style=fla -->
