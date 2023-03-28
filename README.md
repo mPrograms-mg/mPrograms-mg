@@ -32,6 +32,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+<br />
 
 ## 🤝 Connect with me:
 
@@ -45,19 +46,22 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 [<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
+[<img align="left" alt="mPrograms-mg | Twitter" src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
+
 <br/>
 <br/>
 
-<!-- ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPrograms-mg&layout=compact" alt="mPrograms-mg" />
-
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=true&theme=default#gh-light-mode-only" alt="mPrograms-mg"/> -->
+<p align="center"><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mPrograms-mg&layout=compact" alt="mPrograms-mg" />
 
 <br />
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=true&theme=default#gh-light-mode-only" alt="mPrograms-mg"/>
+
+<br />
+
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/>
 
 [website]: https://mprograms-mg.github.io/Digital-CV/
@@ -67,5 +71,6 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 [medium]: https://medium.com/me/stories/public
 [github]: https://github.com/mPrograms-mg
 [angular]: https://angular.io/docs
+[hashnode]: https://mprograms-mg.hashnode.dev/
 
 <!-- https://komarev.com/ghpvc/?username=mprogram-mg&label=Profile%20views&color=0e75b6&style=fla -->
