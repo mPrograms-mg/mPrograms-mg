@@ -57,7 +57,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=true&theme=default#gh-light-mode-only" alt="mPrograms-mg"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=truetheme=default#gh-light-mode-only%22%20alt=%22mPrograms-mg" alt="mPrograms-mg"/>
 
 <br />
 
