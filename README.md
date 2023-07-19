@@ -2,7 +2,7 @@
 
 <br>
 
-### Hello Viewer's, 👋 I am Mahesh Kshirsagar, [Mahesh Kshirsagar][portfolio]
+### Hello Viewer's, 👋 I'm [Mahesh Kshirsagar][portfolio]
 
 ### Passionate Programmer | Learner
 
@@ -10,17 +10,17 @@ I am a Software Engineer, passionate about Development and Learning Enthusiastic
 
 I have good Programming skills, Management, Teamwork, and Good Communication skill. Currently, I am working as a Software Engineer and building a UI using Angular.
 
-- 🌐 My Website: [Mahesh Kshirsagars][portfolio]
+- 🌐 My Website: [Mahesh Kshirsagar][portfolio]
 
 - 🔭 I’m currently working on [Angular][angular]
 
-<!-- - 🌱 I’m currently learning Node, -->
+- 🌱 I’m currently learning React,
 
 - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
 
 - 💬 Ask me about **Javascript, Typescript, Angular**
 
-- 📫 How to reach me: [mPrograms][portfolio]
+- 📫 How to reach me: [porfolio][portfolio]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprograms-mg&label=Profile%20views&color=0e75b6&style=flat" alt="mprograms-mg" /> </p>
 
