@@ -14,7 +14,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 - 🔭 I’m currently working on [Angular][angular]
 
-- 🌱 I’m currently learning React,
+- 🌱 I’m currently learning [React],[react]
 
 - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
 
@@ -80,6 +80,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 [medium]: https://medium.com/me/stories/public
 [github]: https://github.com/mPrograms-mg
 [angular]: https://angular.io/docs
+[react]: https://react.dev/
 [hashnode]: https://mprograms-mg.hashnode.dev/
 
 <!-- https://komarev.com/ghpvc/?username=mprogram-mg&label=Profile%20views&color=0e75b6&style=fla -->
