@@ -14,7 +14,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 - 🔭 I’m currently working on [Angular][angular]
 
-- 🌱 I’m currently learning Node js,
+<!-- - 🌱 I’m currently learning Node, -->
 
 - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
 
