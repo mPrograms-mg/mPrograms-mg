@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=mPrograms-mg&linkedin=MaheshK&twitter=mPrograms92&description=Software%20Engineer|%20JavaScript%20|%20TypeScript&width=%27100%%27">
+<!-- <img src="https://github-hero-readme.vercel.app/api?username=mPrograms-mg&linkedin=MaheshK&twitter=mPrograms92&description=Software%20Engineer|%20JavaScript%20|%20TypeScript&width=%27100%%27"> -->
 
 <br>
 
@@ -57,7 +57,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=true&locale=en&theme=dracula" alt="mPrograms-mg"
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mPrograms-mg&show_icons=true&locale=en&theme=dracula " alt="mPrograms-mg"
 
 <br/>
 
