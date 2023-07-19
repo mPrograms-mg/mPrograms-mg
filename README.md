@@ -4,9 +4,9 @@
 
 ### Hello Viewer's, 👋 I'm [Mahesh Kshirsagar][portfolio]
 
-### Passionate Programmer | Learner
+### Software Engineer | Passionate Programmer | Learner
 
-I am a Software Engineer, passionate about Development and Learning Enthusiastic,and looking forward to a challenging opportunity to make personal and professional growth,I have good Programming skills, Management, Teamwork, and Good Communication skill.
+I'm a Software Engineer, passionate about Development and Learning Enthusiastic,and looking forward to a challenging opportunity to make personal and professional growth,I have good Programming skills, Management, Teamwork, and Good Communication skill.
 
 I have good Programming skills, Management, Teamwork, and Good Communication skill. Currently, I am working as a Software Engineer and building a UI using Angular.
 
