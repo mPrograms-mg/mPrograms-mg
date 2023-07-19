@@ -2,7 +2,7 @@
 
 <br>
 
-### Hello Viewer's, 👋 I am Mahesh Kshirsagar, [mPrograms-mg][website]
+### Hello Viewer's, 👋 I am Mahesh Kshirsagar, [mPrograms-mg][portfolio]
 
 ### Passionate Programmer | Learner
 
@@ -10,10 +10,19 @@ I am a Software Engineer, passionate about Development and Learning Enthusiastic
 
 I have good Programming skills, Management, Teamwork, and Good Communication skill. Currently, I am working as a Software Engineer and building a UI using Angular.
 
-- 🌐 My Website: [mPrograms][website]
+- 🌐 My Website: [Mahesh Kshirsagars][portfolio]
+
 - 🔭 I’m currently working on [Angular][angular]
+
 - 🌱 I’m currently learning Node js,
-- 📫 How to reach me: [mPrograms][twitter]
+
+- 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
+
+- 💬 Ask me about **Javascript, Typescript, Angular**
+
+- 📫 How to reach me: [mPrograms][portfolio]
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mprograms-mg&label=Profile%20views&color=0e75b6&style=flat" alt="mprograms-mg" /> </p>
 
 ## 👨‍💻 Languages and Tools
 
@@ -63,6 +72,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/>
 
+[portfolio]: https://mahesh-kshirsagar.netlify.app/
 [website]: https://mprograms-mg.github.io/Digital-CV/
 [twitter]: https://twitter.com/mPrograms92
 [linkedin]: https://www.linkedin.com/in/mahesh-kshirsagar-a4b330173/
