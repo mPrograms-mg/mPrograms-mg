@@ -2,15 +2,15 @@
 
 ### Passionate Programmer | Learner
 
-I'm a Software Engineer, passionate about Development and Learning Enthusiastic,and looking forward to a challenging opportunity to make personal and professional growth,I have good Programming skills, Management, Teamwork, and Good Communication skill.
+I'm a Software Engineer, passionate about Development and Learning Enthusiastic, and looking forward to a challenging opportunity to make personal and professional growth, I have good Programming skills, Teamwork.
 
-I have good Programming skills, Management, Teamwork, and Good Communication skill. Currently, I am working as a Software Engineer and building a UI using Angular.
+I have good Programming skills, Management, Teamwork, and Good Communication skills. Currently, I am working as a Software Engineer and building a UI using Angular.
 
 - 🌐 My Website: [Mahesh Kshirsagar][portfolio]
 
 - 🔭 I’m currently working on [Angular][angular]
 
-- 🌱 I’m currently learning [React][react]
+- 🌱 I’m currently learning [Node][node]
 
 - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
 
@@ -79,6 +79,7 @@ I have good Programming skills, Management, Teamwork, and Good Communication ski
 [angular]: https://angular.io/docs
 [react]: https://react.dev/
 [hashnode]: https://mprograms-mg.hashnode.dev/
+[node]:https://nodejs.org/en
 
 <!-- https://komarev.com/ghpvc/?username=mprogram-mg&label=Profile%20views&color=0e75b6&style=fla -->
 <!-- <img src="https://github-hero-readme.vercel.app/api?username=mPrograms-mg&linkedin=MaheshK&twitter=mPrograms92&description=Software%20Engineer|%20JavaScript%20|%20TypeScript&width=%27100%%27"> -->
