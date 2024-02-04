@@ -2,7 +2,7 @@
 
 ### Passionate Programmer | Learner
 
-I'm a Software Engineer having over 1.2+ years of expertise in web technologies like Javascript, Typescript, and Angular. Building a UI using Angular. Having good problem-solving skills & passionate about development, and continuous learning. Always looks forward to a challenging opportunity to make personal and professional growth and is eager to share knowledge.
+I'm a Software Engineer having over 1.2+ years of expertise in web technologies like Javascript, Typescript, and Angular. Building a UI using Angular. Having good problem-solving skills & passionate about development, continuous learning. Always looks forward to a challenging opportunity to make personal and professional growth and, eager to share knowledge.
 
 - 🌐 My Website: [Mahesh Kshirsagar][portfolio]
 
