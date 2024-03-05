@@ -14,7 +14,7 @@ I'm a Software Engineer having over 1+ years of expertise in web technologies li
 
 - 💬 Ask me about **Javascript, Typescript, Angular**
 
-- 📫 How to reach me: [porfolio][portfolio]
+- 📫 How to reach me: [portfolio][portfolio]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprograms-mg&label=Profile%20views&color=0e75b6&style=flat" alt="mprograms-mg" /> </p>
 
