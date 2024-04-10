@@ -2,7 +2,7 @@
 
 ### Passionate Programmer | Learner
 
-I'm a Software Engineer with over 1.5+ years of expertise in web application development. Strong experience in Javascript & frontend technologies like Angular, and React, Problem-solving skills, passionate for development, and continuous learning. Always eager to share knowledge in public.
+I'm a Software Engineer with over 1.5+ years of expertise in web development. Strong experience in Javascript & frontend technologies like Angular and React, Problem-solving skills and continuous learning. Always eager to share knowledge in public.
 
 - 🌐 My Website: [Mahesh Kshirsagar][portfolio]
 
