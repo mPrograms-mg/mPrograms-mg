@@ -12,7 +12,7 @@ I'm a Software Engineer with over 1.6+ years of expertise in web development. St
 
 - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
 
-- 💬 Ask me about **Javascript, Typescript, Angular**
+- 💬 Ask me about **Javascript,Typescript,Angular, React**
 
 - 📫 How to reach me: [portfolio][portfolio]
 
