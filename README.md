@@ -8,7 +8,7 @@ I'm a Software Engineer having over 1+ years of expertise in web technologies li
 
 - 🔭 I’m currently working on [Angular][angular]
 
-- 🌱 I’m currently learning [Node][node]
+<!-- - 🌱 I’m currently learning [Node][node] -->
 
 - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
 
