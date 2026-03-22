@@ -55,7 +55,7 @@ I'm a Software Engineer having over 1+ years of expertise in web technologies li
 <br/>
 <br/>
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPrograms-mg&layout=compact" alt="mPrograms-mg" />
 
@@ -65,7 +65,7 @@ I'm a Software Engineer having over 1+ years of expertise in web technologies li
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/> -->
 
 [portfolio]: https://mahesh-kshirsagar.netlify.app/
 [website]: https://mprograms-mg.github.io/Digital-CV/
