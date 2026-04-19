@@ -2,19 +2,17 @@
 
 ### Passionate Programmer | Learner
 
-I'm a Software Engineer having over 1+ years of expertise in web technologies like Javascript, Typescript, and Angular. Building a UI using Angular. Having good problem-solving skills & passionate about development, continuous learning. Looks forward to a challenging opportunity to make personal and professional growth and Always eager to share knowledge.
+I'm a Software Engineer having over 2+ years of expertise in web technologies like Javascript, Typescript, and Angular & React. Building a UI using Angular & React. Having good problem-solving skills & passionate about development, continuous learning. Looks forward to a challenging opportunity to make personal and professional growth and Always eager to share knowledge.
 
-- 🌐 My Website: [Mahesh Kshirsagar][portfolio]
+- 🌐 My Website: [Mahesh Kshirsagar][newportfolio]
 
-- 🔭 I’m currently working on [Angular][angular]
+- 🔭 I’m currently working on [Angular][angular] & [React][react]
 
 <!-- - 🌱 I’m currently learning [Node][node] -->
 
-- 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][portfolio]
+<!-- - 👨‍💻 All of my projects are available at [Mahesh Kshirsagar][newportfolio] -->
 
-- 💬 Ask me about **Javascript, Typescript, Angular**
-
-- 📫 How to reach me: [portfolio][portfolio]
+- 📫 How to reach me: [Portfolio][newportfolio]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprograms-mg&label=Profile%20views&color=0e75b6&style=flat" alt="mprograms-mg" /> </p>
 
@@ -42,15 +40,15 @@ I'm a Software Engineer having over 1+ years of expertise in web technologies li
 
 [<img align="left" alt="mPrograms-mg | LinkedIn"  height="35" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-[<img align="left" alt="mPrograms-mg | Twitter"  height="35" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<!-- [<img align="left" alt="mPrograms-mg | Twitter"  height="35" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter] -->
 
-[<img align="left" alt="mPrograms-mg | instagram"  height="35" width="110" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+<!-- [<img align="left" alt="mPrograms-mg | instagram"  height="35" width="110" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />][instagram] -->
 
 [<img align="left" alt="mPrograms-mg | github"  height="35" width="110" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />][github]
 
-[<img align="left" alt="mPrograms-mg | medium"  height="35" width="110" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+<!-- [<img align="left" alt="mPrograms-mg | medium"  height="35" width="110" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
 
-[<img align="left" alt="mPrograms-mg | hashnode"  height="35" width="110" src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
+<!-- [<img align="left" alt="mPrograms-mg | hashnode"  height="35" width="110" src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode] -->
 
 <br/>
 <br/>
@@ -68,6 +66,7 @@ I'm a Software Engineer having over 1+ years of expertise in web technologies li
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mPrograms-mg&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="mPrograms-mg"/> -->
 
 [portfolio]: https://mahesh-kshirsagar.netlify.app/
+[newportfolio]: https://mkode.online/
 [website]: https://mprograms-mg.github.io/Digital-CV/
 [twitter]: https://twitter.com/mPrograms92
 [linkedin]: https://www.linkedin.com/in/mahesh-kshirsagar-a4b330173/
